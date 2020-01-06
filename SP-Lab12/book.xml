@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class class="Section">
+	<title>Design Patterns Book</title>
+	<children>
+		<class class="Paragraph">
+			<text>This is the introductory\nparagraph. The white\nfox jump over the green fence.</text>
+		</class>
+		<class class="ImageProxy">
+			<url>figure1.png</url>
+		</class>
+		<class class="Paragraph">
+			<text>This is the 2nd paragraph of Chapter 1.</text>
+		</class>
+<class class="Section">
+	<title>Chapter 2: Creational Patterns</title>
+	<children>
+		<class class="Paragraph">
+			<text>Para 2.1.</text>
+		</class>
+		<class class="Image">
+			<url>figure2.png</url>
+		</class>
+		<class class="Paragraph">
+			<text>Para 2.2.</text>		
+		</class>
+	</children>
+</class>
+<class class="Section">
+	<title>Chapter 3: Structural Patterns</title>
+	<children></children>
+</class>
+<class class="Section">
+	<title>Chapter 4: Behavioural Patterns</title>
+	<children></children>
+</class>		
+	</children>
+</class>
